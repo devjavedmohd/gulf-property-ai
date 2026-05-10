@@ -1,0 +1,6 @@
+echo fastapi > requirements.txt
+echo uvicorn >> requirements.txt
+echo xgboost >> requirements.txt
+echo scikit-learn >> requirements.txt
+echo pandas >> requirements.txt
+echo numpy >> requirements.txt
